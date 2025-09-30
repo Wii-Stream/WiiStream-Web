@@ -1,2 +1,2 @@
-# WiiStream-Web
-Website for the revival project
+# WiiStream - Website
+WiiStream's official website!
